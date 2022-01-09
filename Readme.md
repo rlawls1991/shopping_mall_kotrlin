@@ -1,5 +1,3 @@
-# 환경준비
+# 쇼핑몰 프로젝트
 
-## SDKMAN 설치
-
-> https://sdkman.io/install
+## 환경
